@@ -9,4 +9,5 @@ pipeline {
      stage(checkout){
          echo 'hi'
   }
+}
    
